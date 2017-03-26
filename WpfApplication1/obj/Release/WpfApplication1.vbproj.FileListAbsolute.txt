@@ -1,0 +1,15 @@
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.xml
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.vb
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\Application.g.vb
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Resources.resources
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.vbproj.GenerateResource.Cache
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.xml
+C:\Users\asull\OneDrive\Documents\GitHub\Seymour\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
